@@ -21,5 +21,4 @@ end = time.time() - start # 시간 끝
 
 print(N, " 번째 피보나치 수열의 수는 : ", n3)
 print("알고리즘 동작 시간 : ", end, " sec")
-```python
-
+```
