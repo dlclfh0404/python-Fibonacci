@@ -23,4 +23,4 @@ print(N, " 번째 피보나치 수열의 수는 : ", n3)
 print("알고리즘 동작 시간 : ", end, " sec")
 ```
 ###### 이 코드의 결과값은 아래에 이미지와 같다.
-<img src="/img/결과값.png" width=50 height=50 >
+![결과값](https://user-images.githubusercontent.com/106458316/182027327-9276bcaa-06c7-4cb5-9f93-1dc0ceaa9438.png)
